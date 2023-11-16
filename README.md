@@ -1,2 +1,2 @@
-# -TheJava- Advanced Programming Course Project 2020
+#  Advanced Programming Course Project 2020
 
