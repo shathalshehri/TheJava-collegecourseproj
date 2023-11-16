@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="436.0" prefWidth="372.0" style="-fx-background-color: e2ced0;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projectp.ContactController">
+   <children>
+      <ImageView fitHeight="155.0" fitWidth="165.0" layoutX="215.0" layoutY="123.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/BBB.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="155.0" fitWidth="160.0" layoutY="201.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/BBB.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="101.0" layoutY="218.0" prefHeight="41.0" prefWidth="187.0" text="009665458752321" textFill="#593f25">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="111.0" layoutY="301.0" text="JavaContact@gmail.com" textFill="#593f25">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="103.0" fitWidth="107.0" layoutX="142.0" layoutY="319.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/BBB.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="Back" alignment="TOP_CENTER" layoutX="149.0" layoutY="348.0" mnemonicParsing="false" onAction="#BackE1" onMousePressed="#sound" prefHeight="85.0" prefWidth="87.0" style="-fx-background-color: transparent;" text="Back" textFill="#593f25">
+         <font>
+            <Font name="Berlin Sans FB Bold" size="13.0" />
+         </font></Button>
+      <ImageView fitHeight="185.0" fitWidth="336.0" layoutX="42.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/contact-us.gif" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
