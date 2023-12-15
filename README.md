@@ -1,3 +1,3 @@
 #  Advanced Programming Course Team-Project (2020)
 
-Demo: https://drive.google.com/file/d/1opQnTjqah5OXgHrQlAzzSJaJqS7Dcer-/view?usp=sharing
+A quick demo: https://drive.google.com/file/d/1opQnTjqah5OXgHrQlAzzSJaJqS7Dcer-/view?usp=sharing
